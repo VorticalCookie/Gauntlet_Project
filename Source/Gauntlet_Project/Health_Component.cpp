@@ -1,5 +1,10 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+/*
 
+Author: Espinoza,Marco
+Last Updated: 17/4/2025
+Handles taking damage and death event
+
+*/
 
 #include "Health_Component.h"
 
